@@ -1,0 +1,11 @@
+.Button {
+  padding: 1%;
+  margin: 1%;
+  font-weight: bold;
+  border-radius: 12px;
+}
+
+.Button:hover:enabled {
+  background-color: grey;
+  color: white;
+}
